@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 30%;
 }
 
-.scorp {
+/* .scorp {
   width: 50%;
 }
 
@@ -130,6 +130,13 @@ h1, h2, h3, h4, h5, h6 {
 .coffee {
 width: 40%
 }
+ */
+.blog-footer {
+  color: #fff;
+}
 
+.poo {
+  color: #7eca9c;
+}
 
 }
