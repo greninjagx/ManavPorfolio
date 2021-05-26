@@ -177,6 +177,8 @@ p {
     transform: rotate(0);
     width: 50%;
   }
-
-
+  .animals:hover {
+    color: #ff4c68;
+    transition: 1s;
+  }
 }
