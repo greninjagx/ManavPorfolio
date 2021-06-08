@@ -1,7 +1,6 @@
 alert("I am here");
 
 $("#thank").click(function(){
-  alert("hanks");
   $("#thank").addClass("pressed").html("<b>Thank you for reading my page</b>");
   $("#thank").fadeIn(1000).fadeOut(1000).fadeIn(1000);
 
