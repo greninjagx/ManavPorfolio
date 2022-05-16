@@ -100,12 +100,12 @@ p {
 /* Testimonials sections  */
 #testimonials {
   text-align: center;
-  background-color: #7eca9c;
+  background-color: #112B3C;
   color: #fff;
 }
 
 #testimonials:hover {
-  background-color: #29a19c;
+  background-color: #205375;
   transition: 1s;
 }
 
