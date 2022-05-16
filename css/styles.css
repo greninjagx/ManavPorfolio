@@ -3,8 +3,8 @@ body {
 }
 
 #title {
-  background-color: #40394a;
-  color: #7eca9c;
+  background-color: #000000;
+  color: #97BFB4;
 }
 
 .container-fluid {
@@ -94,7 +94,7 @@ p {
 }
 
 .icon:hover {
-  color: #ff4c68;
+  color: #9B0000;
 }
 
 /* Testimonials sections  */
