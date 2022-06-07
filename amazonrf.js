@@ -35,7 +35,7 @@ $(".fa-envelope-square").html("<em>Email does exsist<em>");
 $(".fa-youtube-square").click(
   function(){
 //    $(".fab").css("color", "red");
-$(".fa-youtube-square").html("<a href='https://www.youtube.com/channel/UCbzx5-Jny1Yajpdb-NEAV0Q/featured' target='_blank'> Vidoes are very bad</a>");
+$(".fa-youtube-square").html("<a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' target='_blank'> Vidoes are very bad</a>");
 
   }
 )
