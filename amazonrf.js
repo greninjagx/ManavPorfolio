@@ -1,4 +1,4 @@
-alert("Welcome to my blog");
+alert("Welcome to my portfolio");
 
 $("#thank").click(function(){
   $("#thank").addClass("pressed").html("<b>Thank you for reading my page</b>");
